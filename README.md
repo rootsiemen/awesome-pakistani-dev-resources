@@ -25,6 +25,7 @@ A curated list of awesome resources for Pakistani developers — jobs, communiti
 ## Learning Resources
 
 - [freeCodeCamp](https://www.freecodecamp.org) — Free coding curriculum
+- [Pehle Samjho](https://pehlesamjho.com) — Free PSX stock research + filings learning course for Pakistani markets
 - [The Odin Project](https://www.theodinproject.com) — Free full-stack curriculum
 
 ## Freelancing
