@@ -36,6 +36,7 @@ A curated list of awesome resources for Pakistani developers — jobs, communiti
 
 - [GitHub](https://github.com) — Code hosting and collaboration
 - [VS Code](https://code.visualstudio.com) — Free code editor
+- [Pakistan electricity tariff 2026 (JSON)](https://github.com/lowkey-studio/pakistan-electricity-tariff) — Domestic slab rates and fixed charges from SRO 279(I)/2026 for all DISCOs and K-Electric, CC0
 
 ## Conferences & Meetups
 
